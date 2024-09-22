@@ -43,4 +43,3 @@ The **Health Analytics Dashboard** provides a detailed analysis of patient data 
    - A combination chart visualizes the count of patients per obsession type against their average obsession score. Obsession types include:
      - Harm-related, Contamination, Religious, Symmetry, and Hoarding.
 
-This dashboard provides a comprehensive overview of patient demographics, compulsions, and obsessions, helping stakeholders understand the distribution and behavior patterns within the healthcare data.
